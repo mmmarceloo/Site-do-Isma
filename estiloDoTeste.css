@@ -1,0 +1,19 @@
+input{
+    
+    
+    width: 500px;
+    height: 20px;
+    display: inline-block;
+    
+  }
+fieldset{
+background: rgb(162, 252, 189);
+margin: 10px;
+border: 1px solid rgb(20, 172, 58);
+width: 520px;
+}
+
+Legend{
+background: rgb(20, 172, 58);
+    color: #FFF;
+}
